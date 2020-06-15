@@ -18,5 +18,7 @@ Every recursion functions consist of two parts.
 
 - code to execute in the recursive function
 - termination condition or base condition
+
 Recursion is very useful when your programs need to be divided into multiple parts and output of the one part is depends on the output of the previous part.
+
 Recursion risks to solve identical subproblems multiple times. This inefficiency is addressed and remedied by dynamic programming.
