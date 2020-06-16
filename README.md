@@ -1,5 +1,5 @@
 # dynamicProgramming-Important-Codes
-This repository contains the important questions of dynamic programming and variations of questions under each problem so that it becomes easy to identify which approach is to applied in the given question.
+This repository contains the most important questions of dynamic programming and variations of each question so that it becomes easy to identify which approach is to applied in the given question.
 
 ## Introduction:
 Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming. The idea is to simply store the results of subproblems, so that we do not have to re-compute them when needed later.
