@@ -1,3 +1,16 @@
+/*
+Problem Statement : Given a set of numbers, check whether it can be partitioned into two subsets such that the sum of elements 
+                    in both subsets is same or not.
+
+You don't need to read input or print output, taking inputs and printing is done by the driver code. Your task is to complete the 
+findPartition() function which takes an array a[] and N as input parameter and return true if the given set can be partitioned into 
+two subsets such that the sum of elements in both subsets is equal, else return false.
+
+Time Complexity: O(N*N)
+Auxiliary Space: O(N)
+*/
+
+
 class Solution {
     public boolean subsetsum(int[] a, int sum, int n) {
         // code here
