@@ -24,7 +24,7 @@ Input  : N = 7
 Output : 5
 0 + 1 = 1, 1 + 1 = 2, 1 + 2 = 3, 3 * 2 = 6, 6 + 1 = 7
 
-/*
+*/
 
 import java.util.*;
 import java.lang.*;
@@ -44,7 +44,7 @@ class main {
     }
     
 	public static void main (String[] args) throws IOException{
-		//code
+		
 		BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
 		int a[]=new int[10001];
 		array(a,10001);
